@@ -1,0 +1,5 @@
+outs:
+- md5: f4409f8dde978f517eea23bef9d9660a
+  size: 7725286
+  hash: md5
+  path: SQuAD_it-train.json.gz

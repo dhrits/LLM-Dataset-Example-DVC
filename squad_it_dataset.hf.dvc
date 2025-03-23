@@ -1,0 +1,6 @@
+outs:
+- md5: c562b4ef564fdb12089e43be1a24b01f.dir
+  size: 21666989
+  nfiles: 4
+  hash: md5
+  path: squad_it_dataset.hf

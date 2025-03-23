@@ -1,0 +1,5 @@
+outs:
+- md5: 1c65bf019a57403fd5c7fb671cd8375a
+  size: 1051245
+  hash: md5
+  path: SQuAD_it-test.json.gz
